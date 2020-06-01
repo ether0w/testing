@@ -1,6 +1,11 @@
 {
    "results":[
       {
+         "name":"server",
+         "display_name":"Status Server",
+         "status": 4
+      },
+      {
          "name":"bot 1",
          "display_name":"Bot 1",
          "status": 1
