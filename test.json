@@ -1,0 +1,29 @@
+{
+   "results":[
+      {
+         "name":"bot 1",
+         "display_name":"Bot 1",
+         "status": 1
+      },
+      {
+         "name":"bot 2",
+         "display_name":"Bot 2",
+         "status": 4
+      },
+      {
+         "name":"testbot",
+         "display_name":"Testbot",
+         "status": 2
+      },
+      {
+         "name":"bot 3",
+         "display_name":"Bot 3",
+         "status": 3
+      },
+      {
+         "name":"bot 4",
+         "display_name":"Bot 4",
+         "status": 4
+      }
+   ]
+}
