@@ -1,7 +1,7 @@
 {
    "results":[
       {
-         "name":"server",
+         "name":"status-server",
          "display_name":"Status Server",
          "status": 4
       },
